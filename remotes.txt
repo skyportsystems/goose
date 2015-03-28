@@ -1,0 +1,4 @@
+origin	git@github.com:skyportsystems/goose (fetch)
+origin	git@github.com:skyportsystems/goose (push)
+upstream	https://bitbucket.org/liamstask/goose.git (fetch)
+upstream	https://bitbucket.org/liamstask/goose.git (push)
